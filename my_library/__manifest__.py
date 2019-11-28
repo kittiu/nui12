@@ -6,7 +6,7 @@
     'author': "Parth Gajjar",
     'website': "http://www.example.com",
     'category': 'Uncategorized',
-    'version': '12.0.2',
+    'version': '12.0.3',
     'depends': ['base', 'web'],
     'data': [
         'security/groups.xml',
